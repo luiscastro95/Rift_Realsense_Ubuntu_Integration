@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\camera_class.h(41): warning C4101: 'resol_dim': unreferenced local variable
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny_advanced\common\win32_glapputil.h(873): warning C4100: 'includeIntensiveGPUobject': unreferenced formal parameter
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(639): warning C4010: single-line comment contains line-continuation character
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(418): warning C4189: 'displayMidpointSeconds': local variable is initialized but not referenced
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(420): warning C4101: 'handPoses': unreferenced local variable
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(419): warning C4101: 'trackState': unreferenced local variable
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(349): warning C4101: 'inputState': unreferenced local variable
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(348): warning C4101: 'HasInputState': unreferenced local variable
+d:\c++_projects_home_made\oculus_tiny_modif\frame_stream\samples\oculusroomtiny\oculusroomtiny (gl)\main.cpp(385): warning C4189: 'global_new_width': local variable is initialized but not referenced
+  OculusRoomTiny (GL).vcxproj -> D:\C++_Projects_home_made\Oculus_tiny_Modif\Frame_Stream\Samples\OculusRoomTiny\OculusRoomTiny (GL)\Projects\Windows\VS2017\..\..\..\Bin\Windows\x64\Debug\VS2017\OculusRoomTiny (GL).exe
