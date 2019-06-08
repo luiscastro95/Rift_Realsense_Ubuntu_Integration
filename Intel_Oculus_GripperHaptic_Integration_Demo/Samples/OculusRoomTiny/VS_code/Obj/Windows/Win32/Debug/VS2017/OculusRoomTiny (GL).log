@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\35191\desktop\ovr_sdk_win_1.35.0\samples\oculusroomtiny\oculusroomtiny (gl)\intel_depend\include\librealsense2\hpp\rs_frame.hpp(930): warning C4389: '==': signed/unsigned mismatch
+c:\users\35191\desktop\ovr_sdk_win_1.35.0\samples\oculusroomtiny\oculusroomtiny (gl)\intel_depend\include\librealsense2\hpp\rs_frame.hpp(952): warning C4389: '==': signed/unsigned mismatch
+c:\users\35191\desktop\ovr_sdk_win_1.35.0\samples\oculusroomtiny\oculusroomtiny (gl)\intel_depend\include\librealsense2\hpp\rs_frame.hpp(974): warning C4389: '==': signed/unsigned mismatch
+c:\users\35191\desktop\ovr_sdk_win_1.35.0\samples\oculusroomtiny_advanced\common\win32_glapputil.h(817): warning C4100: 'includeIntensiveGPUobject': unreferenced formal parameter
+  OculusRoomTiny (GL).vcxproj -> C:\Users\35191\Desktop\ovr_sdk_win_1.35.0\Samples\OculusRoomTiny\OculusRoomTiny (GL)\Projects\Windows\VS2017\..\..\..\Bin\Windows\Win32\Debug\VS2017\OculusRoomTiny (GL).exe
